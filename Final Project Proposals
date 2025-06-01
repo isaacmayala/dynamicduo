@@ -1,22 +1,26 @@
 ToDo for proposal:
-
+----------------------------------------------------------------------------------------------
 Group name: Dynamic Duo
 
 Description: A site where users can browse a wide variety of books, add books to a ToRead list.
 Mark list items as 'Read'.
 Leave reviews on 'Read' Items that others can see.
 
-Find a book API that has at least book covers to access.
 
+
+API:
+https://openlibrary.org/developers/api
+
+(Images here/attached)
+------------------------------------------------------------------------------------------
 Getting our collaboration on GitHub to function in order to edit work together.
 
 Create hand drawn site pages. (WentworthJ should have this covered for now),
 
 Figure out what to do with firebase
-
-Pictures
-
+------------------------------------------------------------------------------------------
 API other than firebase
 
 API Ideas.....
 Movie/TV Show APIs (TMDB, OMDB)
+-----------------------------------------------------------------------------------------
