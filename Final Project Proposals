@@ -1,16 +1,17 @@
 ToDo for proposal:
 ----------------------------------------------------------------------------------------------
 Group name: Dynamic Duo
-
-Description: A site where users can browse a wide variety of books, add books to a ToRead list.
+Group Members: Jason Wentworth, Isaac Mayala
+Description: A site where users can browse a wide variety of books, read reviews, and use the search function to find specific books.
+When the user is logged in, they can:
+Add books to a ToRead list.
 Mark list items as 'Read'.
 Leave reviews on 'Read' Items that others can see.
-
-
-
+ 
 API:
 https://openlibrary.org/developers/api
-
+Additional features if time permits:
+User profiles with reading statistics Social features (follow other readers, see friends' activity) Reading goals and progress tracking Book recommendations based on reading history Export reading list Integration with external book APIs for expanded catalog
 (Images here/attached)
 ------------------------------------------------------------------------------------------
 Getting our collaboration on GitHub to function in order to edit work together.
