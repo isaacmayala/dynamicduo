@@ -1,1 +1,37 @@
+General Page Styling 
+body {
+    margin: 0;
+    font-family: 'Lucida Handwriting', cursive;
+    background-color: #E3D4BF; / Page background /
+}
 
+/ Content Body Styling /
+.main-content {
+    background-color: #E3E2D5; / Content background /
+    border: 3px solid #7F6244; / Border color /
+    padding: 20px;
+    margin: 20px auto;
+    width: 90%;
+    max-width: 1000px;
+    box-sizing: border-box;
+}
+
+/ Navigation Bar Styling /
+nav {
+    background-color: #3A81BF; / Nav bar background /
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+/ Navigation Links Styling */
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
